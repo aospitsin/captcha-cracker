@@ -1,6 +1,8 @@
 # About
 Implementation of the freelance task solution from KWork, to create a solution for bypassing captcha using a neural network by contacting through ZennoPoster.
+
 Captcha recognition is carried out using a pretrained neural network, which has been tuned for captcha images.
+
 Asynchronous server operation is implemented using Celery and Flask.
 
 1. [Scripts during development](development/)
